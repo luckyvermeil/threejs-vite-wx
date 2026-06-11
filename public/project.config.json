@@ -1,0 +1,35 @@
+{
+  "description": "项目配置文件。",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minified": false,
+    "newFeature": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "enhance": true,
+    "packNpmManually": true,
+    "packNpmRelationList": [],
+    "disableUseStrict": false,
+    "swc": false,
+    "disableSWC": true
+  },
+  "compileType": "game",
+  "libVersion": "3.8.10",
+  "appid": "wx2673eab636c4a9c8",
+  "projectname": "quickstart",
+  "condition": {},
+  "packOptions": {
+    "ignore": [
+      { "type": "file", "value": "index.html" }
+    ]
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
